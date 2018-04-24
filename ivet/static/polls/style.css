@@ -1,0 +1,10 @@
+# Customize your app¡¦s look and feel
+
+li a {
+    color: blue;
+}
+
+# add a backgroud image
+body {
+    background: white url("images/background.gif") no-repeat;
+}
